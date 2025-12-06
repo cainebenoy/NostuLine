@@ -1,0 +1,5 @@
+{
+  "name": "NostuLine",
+  "description": "A horizontal scrolling timeline for cherished memories using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
